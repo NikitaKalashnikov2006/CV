@@ -1,2 +1,2 @@
 # CV
-[View my CV](https://github.com/NikitaKalashnikov2006/CV/cv)
+[View my CV](https://github.com/nikitaKalashnikov2006/CV/cv)
